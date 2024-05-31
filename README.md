@@ -1,4 +1,4 @@
-# Alzheimer-Analysis
+# Alzheimer's Disease Analysis
 
 ![](image_back.jpg)
 
