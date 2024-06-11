@@ -9,13 +9,14 @@ This documentation provides a detailed analysis of the prevalence of Alzheimer's
 Alzheimer's disease is a progressive neurological disorder that affects millions of people worldwide. Understanding its prevalence across different geographies, demographics, and time periods is crucial for public health planning and resource allocation. This documentation aims to analyze the available data to uncover patterns and trends in Alzheimer's disease prevalence, providing valuable insights for researchers, policymakers, and healthcare professionals.
 
 ## Insights
-Through this analysis, we aim to uncover several key insights:
-1. Geographic variations in Alzheimer's disease prevalence.
-2. Temporal trends in the prevalence data.
-3. Differences in data values based on data sources and types.
-4. The reliability of the data through confidence interval analysis.
-5. Stratification of data by age groups, race, and other demographic factors.
-6. Detailed exploration of the topics and classes covered in the dataset.
+Through this analysis, the following insights were uncovered;
+- Alzheimer's is most common in individuals aged 65 and older and is particularly prevalent among the Hispanic population.
+- The disease is more prevalent in the United States, DC, and Territories, with a notable correlation between higher prevalence rates and wider confidence intervals.
+- Females are more affected by Alzheimer's compared to males.
+- There is a significant caregiving burden, with many patients receiving extensive care from friends or family members.
+- A substantial number of patients have experienced cognitive decline or memory loss recently.
+- Many patients with Alzheimer's also report high blood sugar levels (without diabetes) and have a history of smoking.
+- Depression is a common comorbidity among Alzheimer's patients.
 
 ## Skills Demonstration
 Through this analysis, the following skills are demonstrated:
