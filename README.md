@@ -8,6 +8,13 @@ This documentation provides a detailed analysis of the prevalence of Alzheimer's
 ## Problem Statement
 Alzheimer's disease is a progressive neurological disorder that affects millions of people worldwide. Understanding its prevalence across different geographies, demographics, and time periods is crucial for public health planning and resource allocation. This documentation aims to analyze the available data to uncover patterns and trends in Alzheimer's disease prevalence, providing valuable insights for researchers, policymakers, and healthcare professionals.
 
+## Skills Applied
+- SQL
+- Data Analysis
+- Data Cleaning
+- Data Interpretation
+- Trend Analysis
+
 ## Insights
 Through this analysis, the following insights were uncovered;
 - Alzheimer's is most common in individuals aged 65 and older and is particularly prevalent among the Hispanic population.
