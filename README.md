@@ -2,7 +2,7 @@
 
 ![](image_back.jpg)
 
-## About
+## ❓About
 This documentation provides a detailed analysis of the prevalence of Alzheimer's disease using a comprehensive dataset. The analysis includes geographic, temporal, data source, data type, confidence intervals, stratification, topic, class, and general data overview. The goal is to provide insights into the distribution and trends of Alzheimer's disease prevalence across various dimensions.
 
 **Type:** Health Data Analysis  
@@ -53,9 +53,5 @@ This project improved my ability to:
 - Derive actionable insights from complex datasets  
 - Communicate data-driven findings clearly  
 
-
-
-
-
-## Conclusion
+## 📊Conclusion
 This analysis provides a comprehensive overview of the prevalence of Alzheimer's disease, offering valuable insights into its distribution across various geographic locations, time periods, data sources, and demographic categories. The findings can aid in better understanding and addressing the public health challenges posed by Alzheimer's disease, contributing to more informed decision-making and resource allocation. Through this documentation, we have demonstrated the ability to handle complex datasets, perform detailed analysis, and present the results in a clear and meaningful way.
