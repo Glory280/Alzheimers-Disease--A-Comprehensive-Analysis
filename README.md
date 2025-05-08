@@ -53,5 +53,5 @@ This project improved my ability to:
 - Derive actionable insights from complex datasets  
 - Communicate data-driven findings clearly  
 
-## 📊Conclusion
+## 📌Conclusion
 This analysis provides a comprehensive overview of the prevalence of Alzheimer's disease, offering valuable insights into its distribution across various geographic locations, time periods, data sources, and demographic categories. The findings can aid in better understanding and addressing the public health challenges posed by Alzheimer's disease, contributing to more informed decision-making and resource allocation. Through this documentation, we have demonstrated the ability to handle complex datasets, perform detailed analysis, and present the results in a clear and meaningful way.
